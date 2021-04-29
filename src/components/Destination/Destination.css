@@ -1,0 +1,14 @@
+.car-display{
+  display: flex;
+  background-color: lightblue;
+}
+.car-margin{
+    margin-right: 10px;
+}
+
+.main-flex{
+    display: flex;
+}
+.vehicle-display{
+    margin-right: 250px;
+}

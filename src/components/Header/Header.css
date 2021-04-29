@@ -1,0 +1,14 @@
+.header-style{
+    width: 100px;
+    margin-left: 530px;
+    display: flex;
+    
+}
+.header-style img{
+    width: 150px;
+    height: 80px;
+}
+.header-style h1{
+    
+    color: orange;
+}
